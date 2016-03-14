@@ -1,0 +1,36 @@
+# Text files should be normalized to use LF line endings
+* text=auto
+
+# Ensure that source files are recognized as text
+*.java       text
+*.scala      text
+*.sbt        text
+*.conf       text
+*.properties text
+*.routes     text
+
+*.js         text
+*.ejs        text
+*.css        text
+*.htm        text
+*.html       text
+
+*.json       text
+*.xml        text
+
+*.sh         text
+*.sql        text
+
+*.md         text
+*.markdown   text
+*.txt        text
+
+# Images and fonts should be treated as binary
+*.png        binary
+*.jpg        binary
+*.gif        binary
+
+*.eot        binary
+*.otf        binary
+*.ttf        binary
+*.woff       binary

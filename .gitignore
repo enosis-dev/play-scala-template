@@ -1,0 +1,66 @@
+obj
+bin
+*.user
+[Bb]in
+[Dd]ebug
+[Rr]elease
+*.aps
+*.eto
+*.suo
+TestResults
+packages
+App_Data
+*.log
+
+# SBT build output
+target
+
+# IntelliJ project files
+.idea*
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+.cache
+.target/
+
+# Scala worksheet files
+.worksheet/
+*.sc
+*.worksheet
+
+# Log files
+*Logs/
+*.log
+*.gz
+
+# StealJS and FuncUnit directories
+steal/
+funcunit/
+
+# Version file generated in build
+version.json
+
+# JavaScript Lint output from build
+jsl_output.xml
+jslint.xml
+checkstyle-*.xml
+
+# Production JS and CSS files generated in build
+production.js
+production.css
+
+# Scala public folder for now
+scala/public/*
+
+# Frontend build output
+dist/
+production.*
+
+# External frontend components
+node_modules/
+bower_components/
+vendor/
+
+
