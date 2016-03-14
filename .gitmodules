@@ -1,15 +1,9 @@
-[submodule "public/lib"]
-	path = public/lib
-	url = git@bitbucket.org:sentrana/common-frontend.git
 [submodule "app-shell"]
 	path = app-shell
 	url = git@bitbucket.org:sentrana/app-shell.git
-[submodule "jenkins/shared"]
-	path = jenkins/shared
-	url = git@bitbucket.org:sentrana/jenkins-build.git
-[submodule "public/grunt"]
-	path = public/grunt
-	url = git@bitbucket.org:sentrana/grunt.git
 [submodule "project/sbt-common"]
 	path = project/sbt-common
 	url = git@bitbucket.org:sentrana/sbt-common.git
+[submodule "jenkins"]
+	path = jenkins
+	url = git@bitbucket.org:sentrana/jenkins-build.git
