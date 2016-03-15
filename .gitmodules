@@ -7,3 +7,9 @@
 [submodule "jenkins"]
 	path = jenkins
 	url = git@bitbucket.org:sentrana/jenkins-build.git
+[submodule "public/grunt"]
+	path = public/grunt
+	url = git@bitbucket.org:sentrana/grunt.git
+[submodule "public/lib"]
+	path = public/lib
+	url = git@bitbucket.org:sentrana/common-frontend.git
