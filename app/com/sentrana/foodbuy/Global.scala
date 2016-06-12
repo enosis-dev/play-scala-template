@@ -1,4 +1,4 @@
-package com.sentrana.biq
+package com.sentrana.foodbuy
 
 import com.sentrana.appshell.dataaccess.{ ConnectionProviderComponent, ScalikeJdbcConnectionProviderComponent }
 import com.sentrana.appshell.logging.{ LoggerComponent, PlayLoggerComponent }
